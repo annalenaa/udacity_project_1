@@ -8,7 +8,7 @@ The aim of this project is to provide a simple descriptive analysis of the Stack
 * What do you hope to be doing in 5 years?
 * Time since last job change
 
-The project provides a visual for each of these questions as well as a couple others. The results were published [here](LINK).
+The project provides a visual for each of these questions as well as a couple others. The results were published [here](https://medium.com/@klassannalena/being-a-developer-in-the-united-states-vs-being-a-developer-in-india-5bb1d4e55c).
 
 -----------------------------------------
 
